@@ -1,0 +1,22 @@
+{
+  "name": "atom-tag-wrapper",
+  "main": "./lib/atom-tag-wrapper",
+  "version": "0.0.0",
+  "description": "Enables wrapping of selection(s) in a tag.",
+  "keywords": [
+    "atom",
+    "tag",
+    "wrap",
+    "wrapper"
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-tag-wrapper:wrap"
+  },
+  "repository": "https://github.com/tehapo/atom-tag-wrapper",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
