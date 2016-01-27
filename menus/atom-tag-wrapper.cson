@@ -2,7 +2,7 @@
 'context-menu':
   'atom-text-editor': [
     {
-      'label': 'Toggle atom-tag-wrapper'
+      'label': 'Wrap Selection With Tag'
       'command': 'atom-tag-wrapper:wrap'
     }
   ]
