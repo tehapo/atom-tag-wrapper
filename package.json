@@ -1,7 +1,7 @@
 {
   "name": "atom-tag-wrapper",
   "main": "./lib/atom-tag-wrapper",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Enables wrapping of selection(s) in a tag.",
   "keywords": [
     "atom",
